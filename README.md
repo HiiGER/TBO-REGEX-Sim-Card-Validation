@@ -35,8 +35,8 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini secara lokal:
    ```
 2. **Bukan Comandpromp (pastikan sudah melakukan instalasi python dan streamlit**
   ```bash
-  pip install streamlit
+   pip install streamlit
 ```
 3. jalankan perintah di direktori
 ```bash
-  streamlit run Main.py
+   streamlit run Main.py
