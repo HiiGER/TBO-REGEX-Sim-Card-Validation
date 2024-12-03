@@ -31,5 +31,12 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini secara lokal:
 
 1. **Clone repositori**  
    ```bash
-   git clone https://github.com/username/repo-validasi-nomor-telepon.git
-   cd repo-validasi-nomor-telepon
+   git clone  https://github.com/HiiGER/TBO-REGEX-Sim-Card-Validation.git
+   ```
+2. **Bukan Comandpromp (pastikan sudah melakukan instalasi python dan streamlit**
+  ```bash
+  pip install streamlit
+```
+3. jalankan perintah di direktori
+```bash
+  streamlit run Main.py
